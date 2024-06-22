@@ -1,0 +1,3 @@
+logging:
+  level:
+      com.example.AadharCard_Rutuja.controller: DEBUG
